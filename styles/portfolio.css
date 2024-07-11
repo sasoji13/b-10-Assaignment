@@ -66,4 +66,44 @@ header, main, footer{
     align-items: center;
     justify-content: space-between;
 }
+.myinspiration{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+.video{
+    height: 550px;
+    width: 1140px;
+    border-radius: 16px;
+}
+.div270{
+    display: flex;
+    gap: 24px; 
+    border-radius: 16px;
+}
+.textwrapper{
+    padding: 40px;
+    text-align: left;
+    margin: auto;
+    }
+    .supportwrapper{
+        text-align: center;
+    }
+    .support{
+        background-image: url('../images/handshake.jpg') ;
+        margin: 48px 64px;
+        width: 1144px;
+        height: 185px;
+        margin: auto;
+    }
+    input[type="text"]{
+        width: 548px;
+        height: 57px;
+        border-radius: 8px;
+    }
+    input[type="submit"]{
+        width: 120px;
+        height: 57px;border-radius: 8px;
+    }
+
 
